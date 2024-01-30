@@ -1,2 +1,2 @@
 ### Django_beginners
-A tutorials from Udemy
+A tutorials from Udemy, 2024
